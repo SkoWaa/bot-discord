@@ -9,7 +9,7 @@ module.exports = async (client) => {
   );
   try {
     await client.user.setActivity(
-      `$invinte`,
+      `$invite`,
       {
         type: "WATCHING",
       }
