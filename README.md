@@ -1,1 +1,1 @@
-# bot-discord
+Le bot a été fait il y a un moment déjà, certaines commandes peuvent ne plus être disponible. Je mets quand même la source en public afin de partager certaines de mes commandes et pourquoi pas pouvoir aider certains d'entre vous !
