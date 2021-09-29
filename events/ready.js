@@ -3,8 +3,7 @@ module.exports = async (client) => {
     `
   -------------------
   Draper
-  Advance Discord bot created by Dairkoos
-  "𝐒𝐤𝐨𝐖𝐚.#4824
+  Advance Discord bot created by skowa
   -------------------`,
     "ready"
   );
