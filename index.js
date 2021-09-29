@@ -51,7 +51,7 @@ client.on("guildCreate", gui => {
         .addField('**Nombres de Membres**', `${gui.memberCount}`,)
         .setThumbnail(gui.iconURL({ dynamic: true }))
         .setFooter(`Hikari | Ajout`, client.user.displayAvatarURL())
-        client.guilds.cache.get("625885104639574027").channels.cache.get("764205601005502474").send(embed)
+        client.guilds.cache.get(" ").channels.cache.get(" ").send(embed)
 });
 
 client.on("guildDelete", gui => {
@@ -63,7 +63,7 @@ client.on("guildDelete", gui => {
         .addField('**Nombres de Membres**', `${gui.memberCount}`,)
         .setThumbnail(gui.iconURL({ dynamic: true }))
         .setFooter(`Hikari | Delete`, client.user.displayAvatarURL())
-        client.guilds.cache.get("625885104639574027").channels.cache.get("764205601005502474").send(embed)
+        client.guilds.cache.get(" ").channels.cache.get(" ").send(embed)
 });
 const init = async () => {
   const cmdFiles = await readdir("./commands/");
