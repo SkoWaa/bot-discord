@@ -11,7 +11,7 @@ module.exports = (client, guild) => {
         .addField(` Nombre de membres:`, `${guild.memberCount}`)
         .setColor(`#275BF0`)
         .setFooter( `Désormais : ${client.guilds.cache.size} serveurs`, client.user.displayAvatarURL())
-        client.guilds.cache.get("625885104639574027").channels.cache.get("764205601005502474").send(embed)
+        client.guilds.cache.get(" ").channels.cache.get(" ").send(embed)
     channel.send(removeembed)    
     
     //console.log(channel)
