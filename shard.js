@@ -7,7 +7,7 @@ const manager = new ShardingManager('./index.js', {
     // for ShardingManager options see:
     // https://discord.js.org/#/docs/main/v12/class/ShardingManager
     totalShards: 'auto',
-    token: 'NzIzMjc1ODA3OTg3ODU5NTA2.XuvRFg.znJAheiC9T5r9NdosVwoSIxGq50'
+    token: ' '
 });
 
 // Spawn your shards
